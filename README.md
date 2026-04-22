@@ -1,6 +1,6 @@
 # tenhou0_to_mjai
 
-把天凤 XML 牌谱批量转换为 `mjai` 事件流格式的工具仓库。
+把天凤 XML 牌谱（http://tenhou.net/0/）批量转换为 `mjai` 事件流格式的工具仓库。
 
 当前仓库的重点是：
 
